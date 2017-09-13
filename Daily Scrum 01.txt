@@ -18,3 +18,8 @@ JUANSALGADO 12/09/2017
 3. Que Dificultades tuve? Al clonar proyecto por red no funcional
 
  
+Andrés Quintero 12/09/2017
+
+1. Que hice ayer? Definicion de Casos de Uso
+2. Que Hice hoy? Creacion MER y creacion de repositorio en github
+3. Que Dificultades tuve? la red del sena es muy mala para subir o bajar archivos a un repositorio
