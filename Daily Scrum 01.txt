@@ -10,4 +10,11 @@ Mario Alberto Sanchez 13/09/2017
 1. Que hice ayer? Definicion de Casos de Uso
 2. Que Hice hoy? Creacion MER y Script de Bases de Datos
 3. Que Dificultades tuve? Al subir el script y crear las llaves foraneas: SOLUCIONADO
+
+JUANSALGADO 12/09/2017
+
+1. Que hice ayer? Definicion de Casos de Uso
+2. Que Hice hoy? Creacion MER y configuracion de archivo .env en laravel
+3. Que Dificultades tuve? Al clonar proyecto por red no funcional
+
  
