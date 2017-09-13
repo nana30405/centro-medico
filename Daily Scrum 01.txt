@@ -5,7 +5,7 @@
 3. Que Dificultades tuve?
 
 
-Mario Alberto Sanchez 13/09/2017
+Mario Alberto Sanchez 12/09/2017
 
 1. Que hice ayer? Definicion de Casos de Uso
 2. Que Hice hoy? Creacion MER y Script de Bases de Datos
